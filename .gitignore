@@ -1,0 +1,12 @@
+# Private documents - do not commit
+private/
+*.private
+temp/
+.env
+.env.local
+
+# Common private file extensions
+*.key
+*.pem
+*.p12
+*.pfx
